@@ -1,4 +1,4 @@
-PROJ_NAME = TicTacToe
+PROJ_NAME = application
 SRC = application.c 
 
 #To check if the OS is windows or linux and set the executable file extension and delete command accordingly
@@ -15,7 +15,7 @@ else
 endif
 
 build:
-	gcc $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+	gcc $(SRC)
 
 run: build
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
