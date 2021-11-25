@@ -65,6 +65,6 @@
 
 # LOW LEVEL REQUIRMENTS
 
-## 🔹Personal details of player like contact number,gender.
+## 🔹Required minimum one player.
 
 
