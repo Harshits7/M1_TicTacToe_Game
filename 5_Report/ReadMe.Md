@@ -68,3 +68,7 @@
 ## 🔹Required minimum one player.
 
 ![Alt text](https://github.com/Harshits7/M1_TicTacToe_Game/blob/main/5_Report/TicTacToe.jpeg)
+![Alt text](https://github.com/Harshits7/M1_TicTacToe_Game/blob/main/5_Report/Behavioural%20diagram.jpg)
+![Alt text](https://github.com/Harshits7/M1_TicTacToe_Game/blob/main/5_Report/Structural%20diagram.png)
+![Alt text](https://github.com/Harshits7/M1_TicTacToe_Game/blob/main/5_Report/UML%20Digram.gif)
+![Alt text](https://github.com/Harshits7/M1_TicTacToe_Game/blob/main/5_Report/state%20diagram.jpg)
